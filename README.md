@@ -35,12 +35,6 @@ It enables decision-makers to:
 * Excel / CSV → Data source (pre-processed dataset)
 * DAX (Data Analysis Expressions) → For measures & calculations
 
-
-## Dashboard Preview
-
-![Amazon Dashboard](https://github.com/kaushikmanish34/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png)
-
-
 ## Insights from Dashboard
 
 * Majority of sales came from *T-shirts and Shirts*
@@ -48,4 +42,11 @@ It enables decision-makers to:
 * *Easy Ship* is the dominant delivery partner
 * Amazon fulfillment has more orders compared to merchant fulfillment
 * Medium (M) and Large (L) sizes contribute the most to sales
+
+## Dashboard Preview
+
+![Amazon Dashboard](https://github.com/kaushikmanish34/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png)
+
+
+
 
