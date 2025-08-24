@@ -38,7 +38,7 @@ It enables decision-makers to:
 
 ## Dashboard Preview
 
-![Amazon Dashboard](screenshots/dashboard.png)
+![Amazon Dashboard](https://github.com/kaushikmanish34/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Report.png)
 
 
 ## Insights from Dashboard
